@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Lucida Sans Unicode";
+}
+h1 {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.imgView {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.btnView {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.btn {
+  font-size: 20px;
+  width: 100px;
+}
